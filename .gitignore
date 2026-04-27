@@ -1,0 +1,4 @@
+bts_combined.parquet
+ontime_2024_04/
+.DS_Store
+*.parquet
